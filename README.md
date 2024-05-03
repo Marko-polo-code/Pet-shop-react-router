@@ -2,7 +2,7 @@
 
 This is a simple pet adoption web application built using React and React Router.
 
-![Pet Adoption App Screenshot](public/Screenshot 2024-05-03 at 15.04.18.png)
+![Pet Adoption App Screenshot](./public/Screenshot%202024-05-03%20at%2015.04.18.png)
 
 ## Table of Contents
 
