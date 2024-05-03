@@ -7,6 +7,7 @@ This is a simple pet adoption web application built using React and React Router
 ## Table of Contents
 
 - [Installation](#installation)
+- [Usage](#Usage)
 
 ## Installation
 
@@ -19,4 +20,5 @@ git clone https://github.com/your-username/pet-adoption-app.git
 
 cd pet-adoption-app
 
-npm start
+
+npm install
